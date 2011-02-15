@@ -1,0 +1,46 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    RedCloth (4.2.7)
+    creole (0.3.8)
+    evaluator (0.1.5)
+    gitrb (0.2.8)
+    kgio (2.3.2)
+    maruku (0.6.0)
+      syntax (>= 1.0.0)
+    mimemagic (0.1.8)
+    nokogiri (1.4.4)
+    org-ruby (0.5.3)
+      rubypants (>= 0.2.0)
+    rack (1.2.1)
+    rdiscount (1.6.8)
+    rubypants (0.2.0)
+    slim (0.9.0)
+      temple (~> 0.1.7)
+      tilt (~> 1.2)
+    syntax (1.0.0)
+    temple (0.1.7)
+    tilt (1.2.2)
+    unicorn (3.4.0)
+      kgio (~> 2.2)
+      rack
+    yajl-ruby (0.8.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  RedCloth
+  creole
+  evaluator
+  gitrb
+  maruku
+  mimemagic
+  nokogiri
+  org-ruby
+  rack
+  rdiscount
+  rubypants
+  slim
+  unicorn
+  yajl-ruby
